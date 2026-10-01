@@ -3,13 +3,11 @@
  * Platform    : ESP32-C3 Mini
  * 
  * Contributors:
- * - Muhammad Raihan Aqeela Akbar (245150301111002)
- * - Hayqal Husein Alhabsyi       (245150301111027)
- * - Muhammad Minanur Rohman      (245150300111053)
- * - Muhammad Zaki Firmansyah     (245150300111042)
- * - Made Nugraha Pradnyana       (245150307111012)
- * 
- * Fakultas Ilmu Komputer, Universitas Brawijaya (FILKOM UB)
+ * - Hayqal Husein Alhabsyi
+ * - Muhammad Raihan Aqeela Akbar
+ * - Muhammad Minanur Rohman
+ * - Muhammad Zaki Firmansyah
+ * - Made Nugraha Pradnyana
  * ==================================================================== */
 
 #include <WiFi.h>
