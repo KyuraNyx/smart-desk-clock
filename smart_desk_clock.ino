@@ -1,3 +1,17 @@
+/* ====================================================================
+ * Project     : Smart Desk Clock & Environmental Monitor (IoT)
+ * Platform    : ESP32-C3 Mini
+ * 
+ * Contributors:
+ * - Muhammad Raihan Aqeela Akbar (245150301111002)
+ * - Hayqal Husein Alhabsyi       (245150301111027)
+ * - Muhammad Minanur Rohman      (245150300111053)
+ * - Muhammad Zaki Firmansyah     (245150300111042)
+ * - Made Nugraha Pradnyana       (245150307111012)
+ * 
+ * Fakultas Ilmu Komputer, Universitas Brawijaya (FILKOM UB)
+ * ==================================================================== */
+
 #include <WiFi.h>
 #include <WiFiUdp.h>
 #include <WiFiManager.h>

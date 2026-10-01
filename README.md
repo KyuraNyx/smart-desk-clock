@@ -181,11 +181,23 @@ Watch the working physical demonstration on YouTube:
 
 ---
 
-## 👤 Author
+## 👥 Project Team & Contributors
 
-**Hayqal Husein Alhabsyi**  
-- GitHub: [@KyuraNyx](https://github.com/KyuraNyx)  
-- Email: [playfulcloud17@gmail.com](mailto:playfulcloud17@gmail.com)
+This project was developed by:
+
+| Name | Student ID (NIM) | Profile / Contact |
+| :--- | :---: | :---: |
+| **Hayqal Husein Alhabsyi** | `245150301111027` | [GitHub: @KyuraNyx](https://github.com/KyuraNyx) • [playfulcloud17@gmail.com](mailto:playfulcloud17@gmail.com) |
+| **Muhammad Raihan Aqeela Akbar** | `245150301111002` | Contributor |
+| **Muhammad Minanur Rohman** | `245150300111053` | Contributor |
+| **Muhammad Zaki Firmansyah** | `245150300111042` | Contributor |
+| **Made Nugraha Pradnyana** | `245150307111012` | Contributor |
+
+### 🎓 Academic Context
+- **Course:** Microcontroller and Microprocessor (*Mikrokontroler dan Mikroprosesor*)
+- **Lecturer & Advisor:** Agung Setia Budi, S.T., M.T., M.Eng., Ph.D.
+- **Institution:** Faculty of Computer Science, Universitas Brawijaya (FILKOM UB)
+- **Academic Year:** 2025/2026
 
 ---
 
